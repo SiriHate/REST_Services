@@ -1,0 +1,6 @@
+[submodule "REST_Client"]
+	path = REST_Client
+	url = https://github.com/SiriHate/REST_Client_Template.git
+[submodule "REST_Server"]
+	path = REST_Server
+	url = https://github.com/SiriHate/REST_Server_Template.git
